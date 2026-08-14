@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Study Planner</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+       
+        <div class="header">
+            <h1>🌸 Study Planner 🌸</h1>
+            <p>Let me guide you to productivity!</p>
+        </div>
+
+
+       
+        <label for="difficulty">
+            Subject Difficulty:
+        </label>
+
+        <input
+            type="number"
+            id="difficulty"
+            min="1"
+            max="10"
+            placeholder="1 - 10"
+        >
+
+
+       
+        <label for="knowledge">
+            Knowledge:
+        </label>
+
+        <input
+            type="number"
+            id="knowledge"
+            min="0"
+            max="10"
+            placeholder="0 - 10"
+        >
+
+
+       
+        <label for="days">
+            Days Remaining:
+        </label>
+
+        <input
+            type="number"
+            id="days"
+            min="0"
+            max="31"
+            placeholder="Number of days"
+        >
+
+
+      
+        <label for="mood">
+            Mood today:
+        </label>
+
+        <input
+            type="range"
+            id="mood"
+            min="1"
+            max="10"
+            value="5"
+            class="slider"
+        >
+
+
+     
+        <div class="result">
+
+            <h2>Recommendations:</h2>
+
+            <p id="output">
+                Answer the questions above and click the button.
+            </p>
+
+            <button
+                type="button"
+                id="resultBtn"
+            >
+                Get Recommendation
+            </button>
+
+        </div>
+
+    </div>
+
+
+  
+    <script src="script.js"></script>
+
+</body>
+</html>
+```
