@@ -1,0 +1,13 @@
+name|shine
+continent|south america
+country|brazil
+taste|sweet
+category|
+ingredient|
+country_history|japan;korea;china;brazil
+continent_history|asia;south america
+taste_history|spicy;savory;sweet
+category_history|
+ingredient_history|
+food_history|spicy ramen;yakisoba;feijoada
+conversation|hello;i want something from japan;yep;no;i want something in china;spicy;spicy it is;i want brazil;savory;yep;i want something sweet;yep yepo

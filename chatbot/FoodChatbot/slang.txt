@@ -1,0 +1,10 @@
+bet|positive
+no cap|positive
+cap|negative
+slay|positive
+mid|negative
+sus|negative
+fr|positive
+rizz|positive
+bro|casual
+bruh|casual

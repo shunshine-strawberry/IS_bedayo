@@ -1,0 +1,234 @@
+sushi|japan|asia|savory|meal|fish,vegetable
+ramen|japan|asia|savory|noodles|chicken,pork
+spicy ramen|japan|asia|spicy,savory|noodles|chicken,pork
+tempura|japan|asia|savory|snack|vegetable,fish
+yakisoba|japan|asia|savory|noodles|pork,vegetable
+teriyaki chicken|japan|asia|sweet,savory|meal|chicken
+okonomiyaki|japan|asia|savory|meal|pork,vegetable
+udon|japan|asia|savory|noodles|chicken,vegetable
+
+kimchi fried rice|korea|asia|spicy,savory|meal|vegetable
+tteokbokki|korea|asia|spicy,savory|snack|vegetable
+bibimbap|korea|asia|savory|meal|beef,vegetable
+jajangmyeon|korea|asia|savory|noodles|pork
+korean fried chicken|korea|asia|spicy,savory|meal|chicken
+bulgogi|korea|asia|sweet,savory|meal|beef
+kimchi stew|korea|asia|spicy,savory|soup|pork,vegetable
+kimbap|korea|asia|savory|meal|vegetable,fish
+
+chicken adobo|philippines|asia|savory|meal|chicken
+pork adobo|philippines|asia|savory|meal|pork
+sinigang|philippines|asia|sour,savory|soup|pork,vegetable
+bicol express|philippines|asia|spicy,savory|meal|pork
+pancit|philippines|asia|savory|noodles|chicken,pork,vegetable
+sisig|philippines|asia|savory|meal|pork
+tinola|philippines|asia|savory|soup|chicken,vegetable
+lumpia|philippines|asia|savory|snack|pork,vegetable
+lechon|philippines|asia|savory|meal|pork
+kare-kare|philippines|asia|savory|meal|beef,vegetable
+caldereta|philippines|asia|savory|meal|beef,vegetable
+halo-halo|philippines|asia|sweet|snack|vegetable
+
+pad thai|thailand|asia|sweet,savory|noodles|chicken,vegetable
+green curry|thailand|asia|spicy,savory|meal|chicken,vegetable
+tom yum|thailand|asia|spicy,sour|soup|fish,vegetable
+tom kha|thailand|asia|spicy,savory|soup|chicken,vegetable
+mango sticky rice|thailand|asia|sweet|snack|vegetable
+thai fried rice|thailand|asia|savory|meal|chicken,vegetable
+massaman curry|thailand|asia|sweet,savory|meal|beef,vegetable
+spring rolls|thailand|asia|savory|snack|vegetable
+
+butter chicken|india|asia|spicy,savory|meal|chicken
+chicken tikka|india|asia|spicy,savory|meal|chicken
+biryani|india|asia|spicy,savory|meal|chicken,vegetable
+palak paneer|india|asia|savory|meal|vegetable
+dal|india|asia|savory|meal|vegetable
+tandoori chicken|india|asia|spicy,savory|meal|chicken
+samosa|india|asia|spicy,savory|snack|vegetable
+chana masala|india|asia|spicy,savory|meal|vegetable
+
+sweet and sour pork|china|asia|sweet,sour|meal|pork,vegetable
+kung pao chicken|china|asia|spicy,savory|meal|chicken,vegetable
+fried rice|china|asia|savory|meal|chicken,vegetable
+chow mein|china|asia|savory|noodles|chicken,vegetable
+dumplings|china|asia|savory|snack|pork,vegetable
+mapo tofu|china|asia|spicy,savory|meal|vegetable
+hot pot|china|asia|spicy,savory|soup|beef,vegetable
+spring rolls|china|asia|savory|snack|vegetable
+
+pho|vietnam|asia|savory|soup|beef,vegetable
+banh mi|vietnam|asia|savory|meal|pork,vegetable
+bun cha|vietnam|asia|savory|meal|pork,vegetable
+com tam|vietnam|asia|savory|meal|pork,vegetable
+fresh spring rolls|vietnam|asia|fresh,savory|snack|vegetable,fish
+ca kho to|vietnam|asia|sweet,savory|meal|fish
+chicken pho|vietnam|asia|savory|soup|chicken,vegetable
+bun bo hue|vietnam|asia|spicy,savory|soup|beef,vegetable
+
+nasi goreng|indonesia|asia|spicy,savory|meal|chicken,vegetable
+gado-gado|indonesia|asia|savory,fresh|meal|vegetable
+satay|indonesia|asia|savory|snack|chicken
+rendang|indonesia|asia|spicy,savory|meal|beef
+mie goreng|indonesia|asia|savory|noodles|chicken,vegetable
+soto ayam|indonesia|asia|savory|soup|chicken,vegetable
+bakso|indonesia|asia|savory|soup|beef,vegetable
+ayam penyet|indonesia|asia|spicy,savory|meal|chicken
+
+chicken rice|singapore|asia|savory|meal|chicken
+laksa|singapore|asia|spicy,savory|soup|chicken,vegetable
+chili crab|singapore|asia|spicy,savory|meal|fish
+char kway teow|singapore|asia|savory|noodles|pork,vegetable
+satay|singapore|asia|savory|snack|chicken
+roti prata|singapore|asia|savory|snack|vegetable
+
+nasi lemak|malaysia|asia|savory|meal|chicken,vegetable
+char kway teow|malaysia|asia|savory|noodles|pork,vegetable
+laksa|malaysia|asia|spicy,savory|soup|chicken,vegetable
+satay|malaysia|asia|savory|snack|chicken
+beef rendang|malaysia|asia|spicy,savory|meal|beef
+roti canai|malaysia|asia|savory|snack|vegetable
+
+beef kebab|turkey|asia|savory|meal|beef,vegetable
+chicken doner|turkey|asia|savory|meal|chicken,vegetable
+lahmacun|turkey|asia|savory|meal|beef,vegetable
+manti|turkey|asia|savory|meal|beef
+pide|turkey|asia|savory|meal|beef,vegetable
+baklava|turkey|asia|sweet|snack|vegetable
+
+pizza|italy|europe|savory|meal|vegetable
+pasta|italy|europe|savory|pasta|vegetable
+arrabbiata pasta|italy|europe|spicy,savory|pasta|vegetable
+lasagna|italy|europe|savory|pasta|beef,vegetable
+risotto|italy|europe|savory|meal|vegetable
+gnocchi|italy|europe|savory|pasta|vegetable
+margherita pizza|italy|europe|savory|meal|vegetable
+carbonara|italy|europe|savory|pasta|pork
+
+croissant|france|europe|sweet|snack|vegetable
+ratatouille|france|europe|savory|meal|vegetable
+quiche|france|europe|savory|meal|vegetable
+beef bourguignon|france|europe|savory|meal|beef,vegetable
+crepes|france|europe|sweet|snack|vegetable
+onion soup|france|europe|savory|soup|vegetable
+coq au vin|france|europe|savory|meal|chicken,vegetable
+gratin|france|europe|savory|meal|vegetable
+
+paella|spain|europe|savory|meal|fish,vegetable
+tortilla española|spain|europe|savory|meal|vegetable
+gazpacho|spain|europe|fresh,savory|soup|vegetable
+churros|spain|europe|sweet|snack|vegetable
+patatas bravas|spain|europe|spicy,savory|snack|vegetable
+croquetas|spain|europe|savory|snack|chicken
+seafood paella|spain|europe|savory|meal|fish,vegetable
+albóndigas|spain|europe|savory|meal|beef
+
+schnitzel|germany|europe|savory|meal|chicken,pork
+bratwurst|germany|europe|savory|meal|pork
+sauerkraut|germany|europe|sour,savory|meal|vegetable
+currywurst|germany|europe|spicy,savory|meal|pork
+pretzel|germany|europe|savory|snack|vegetable
+potato salad|germany|europe|savory|meal|vegetable
+goulash|germany|europe|spicy,savory|soup|beef,vegetable
+apple strudel|germany|europe|sweet|snack|vegetable
+
+fish and chips|united kingdom|europe|savory|meal|fish
+shepherd's pie|united kingdom|europe|savory|meal|beef,vegetable
+bangers and mash|united kingdom|europe|savory|meal|pork,vegetable
+beef pie|united kingdom|europe|savory|meal|beef
+roast beef|united kingdom|europe|savory|meal|beef,vegetable
+cornish pasty|united kingdom|europe|savory|snack|beef,vegetable
+toad in the hole|united kingdom|europe|savory|meal|pork
+sticky toffee pudding|united kingdom|europe|sweet|snack|vegetable
+
+smørrebrød|denmark|europe|savory|meal|fish,vegetable
+frikadeller|denmark|europe|savory|meal|pork,beef
+stegt flæsk|denmark|europe|savory|meal|pork,vegetable
+æbleskiver|denmark|europe|sweet|snack|vegetable
+
+meatballs|sweden|europe|savory|meal|beef,pork
+gravlax|sweden|europe|savory|meal|fish
+pyttipanna|sweden|europe|savory|meal|pork,vegetable
+cinnamon buns|sweden|europe|sweet|snack|vegetable
+
+gyro|greece|europe|savory|meal|chicken,vegetable
+moussaka|greece|europe|savory|meal|beef,vegetable
+souvlaki|greece|europe|savory|meal|chicken,vegetable
+greek salad|greece|europe|fresh,savory|meal|vegetable
+spanakopita|greece|europe|savory|snack|vegetable
+tzatziki|greece|europe|fresh,savory|snack|vegetable
+
+tacos|mexico|north america|savory|meal|beef,chicken,vegetable
+quesadilla|mexico|north america|savory|snack|chicken,vegetable
+burrito|mexico|north america|savory|meal|beef,chicken
+enchiladas|mexico|north america|spicy,savory|meal|chicken,vegetable
+guacamole|mexico|north america|fresh,savory|snack|vegetable
+chilaquiles|mexico|north america|spicy,savory|meal|chicken,vegetable
+pozole|mexico|north america|savory|soup|pork,vegetable
+tamales|mexico|north america|savory|meal|chicken,pork
+
+hamburger|united states|north america|savory|meal|beef
+fried chicken|united states|north america|savory|meal|chicken
+hot dog|united states|north america|savory|meal|pork
+mac and cheese|united states|north america|savory|meal|vegetable
+buffalo chicken|united states|north america|spicy,savory|meal|chicken
+barbecue ribs|united states|north america|sweet,savory|meal|pork
+clam chowder|united states|north america|savory|soup|fish
+pancakes|united states|north america|sweet|snack|vegetable
+
+poutine|canada|north america|savory|meal|beef,vegetable
+tourtiere|canada|north america|savory|meal|beef,pork
+smoked salmon|canada|north america|savory|meal|fish
+maple pancakes|canada|north america|sweet|snack|vegetable
+beaver tails|canada|north america|sweet|snack|vegetable
+
+feijoada|brazil|south america|savory|meal|pork
+coxinha|brazil|south america|savory|snack|chicken
+pao de queijo|brazil|south america|savory|snack|vegetable
+moqueca|brazil|south america|savory|soup|fish,vegetable
+churrasco|brazil|south america|savory|meal|beef
+brigadeiro|brazil|south america|sweet|snack|vegetable
+acaraje|brazil|south america|spicy,savory|snack|vegetable
+
+asado|argentina|south america|savory|meal|beef
+empanadas|argentina|south america|savory|snack|beef
+milanesa|argentina|south america|savory|meal|beef
+choripan|argentina|south america|savory|meal|pork
+locro|argentina|south america|savory|soup|beef,vegetable
+
+ceviche|peru|south america|sour,fresh|meal|fish,vegetable
+lomo saltado|peru|south america|savory|meal|beef,vegetable
+aji de gallina|peru|south america|spicy,savory|meal|chicken
+anticuchos|peru|south america|savory|snack|beef
+causa|peru|south america|savory|meal|fish,vegetable
+papa a la huancaina|peru|south america|savory|snack|vegetable
+
+injera|ethiopia|africa|sour,savory|meal|vegetable
+doro wat|ethiopia|africa|spicy,savory|meal|chicken
+tibs|ethiopia|africa|spicy,savory|meal|beef
+shiro|ethiopia|africa|spicy,savory|meal|vegetable
+
+couscous|morocco|africa|savory|meal|vegetable
+tagine|morocco|africa|savory|meal|chicken,vegetable
+harira|morocco|africa|savory|soup|vegetable
+pastilla|morocco|africa|sweet,savory|meal|chicken
+
+jollof rice|nigeria|africa|spicy,savory|meal|chicken,vegetable
+suya|nigeria|africa|spicy,savory|snack|beef
+egusi soup|nigeria|africa|savory|soup|vegetable
+pounded yam|nigeria|africa|savory|meal|vegetable
+
+chicken peri peri|south africa|africa|spicy,savory|meal|chicken
+bobotie|south africa|africa|sweet,savory|meal|beef
+boerewors|south africa|africa|savory|meal|beef,pork
+biltong|south africa|africa|savory|snack|beef
+
+chicken parmigiana|australia|oceania|savory|meal|chicken
+meat pie|australia|oceania|savory|meal|beef
+fish and chips|australia|oceania|savory|meal|fish
+lamington|australia|oceania|sweet|snack|vegetable
+sausage roll|australia|oceania|savory|snack|pork
+
+hāngi|new zealand|oceania|savory|meal|pork,vegetable
+meat pie|new zealand|oceania|savory|meal|beef
+fish and chips|new zealand|oceania|savory|meal|fish
+pavlova|new zealand|oceania|sweet|snack|vegetable

@@ -1,0 +1,26 @@
+asia|japan|japan,japanese
+asia|korea|korea,korean,south korea
+asia|philippines|philippines,filipino
+asia|thailand|thailand,thai
+asia|india|india,indian
+asia|china|china,chinese
+asia|vietnam|vietnam,vietnamese
+
+europe|italy|italy,italian
+europe|france|france,french
+europe|spain|spain,spanish
+europe|germany|germany,german
+europe|united kingdom|united kingdom,uk,britain,british
+
+north america|mexico|mexico,mexican
+north america|united states|united states,usa,america,american
+north america|canada|canada,canadian
+
+south america|brazil|brazil,brazilian
+south america|argentina|argentina,argentinian
+
+africa|egypt|egypt,egyptian
+africa|morocco|morocco,moroccan
+
+oceania|australia|australia,australian
+oceania|new zealand|new zealand

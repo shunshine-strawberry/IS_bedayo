@@ -1,0 +1,28 @@
+PATTERN|greeting|\b(?:hi|hello|hey|yo|kamusta|kumusta)\b
+PATTERN|hungry|\b(?:hungry|starving|gutom ako|nagugutom ako)\b
+PATTERN|suggestion|\b(?:what should i eat|what can i eat|what to eat|suggest food|recommend food|ano kakainin|anong kakainin)\b
+PATTERN|yes|^\s*(?:yes|yeah|yep|sure|okay|ok|oo|sige|bet)\s*[.!]?\s*$
+PATTERN|no|^\s*(?:no|nope|nah|hindi|ayoko|not really)\s*[.!]?\s*$
+PATTERN|goodbye|^\s*(?:bye|goodbye|exit|quit|stop|paalam)\s*[.!]?\s*$
+PATTERN|repeat|\b(?:what did i say|what did i choose|what did i choose before|what was my choice|what do you remember about me)\b
+
+ENTITY|name|\b(?:my\s+name\s+is|call\s+me|i\s+am|i'm|im)\s+(?P<name>(?!(?:hungry|starving|from|into|looking|craving|going)\b)[a-z][a-z'-]{1,20})\b
+
+CHANGE|change|\b(?:actually|instead|wait|rather|changed\s+my\s+mind|never\s+mind|nevermind|change)\b
+
+KEYWORD|spicy|\b(?:spicy|maanghang|hot|chili|chilli)\b
+KEYWORD|sweet|\b(?:sweet|matamis)\b
+KEYWORD|sour|\b(?:sour|maasim)\b
+KEYWORD|savory|\b(?:savory|malasa|maalat)\b
+KEYWORD|fresh|\b(?:fresh|presko)\b
+
+KEYWORD|chicken|\b(?:chicken|manok)\b
+KEYWORD|pork|\b(?:pork|baboy)\b
+KEYWORD|beef|\b(?:beef|baka)\b
+KEYWORD|vegetable|\b(?:vegetable|vegetables|gulay)\b
+
+KEYWORD|meal|\b(?:meal|ulam|rice|kanin)\b
+KEYWORD|snack|\b(?:snack|meryenda)\b
+KEYWORD|soup|\b(?:soup|sabaw)\b
+KEYWORD|noodles|\b(?:noodles|pancit|pansit)\b
+KEYWORD|pasta|\b(?:pasta|spaghetti)\b
